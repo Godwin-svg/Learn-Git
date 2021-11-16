@@ -1,2 +1,3 @@
 node_modules/
 # ignore foldr in branch bob
+.DS_Store
